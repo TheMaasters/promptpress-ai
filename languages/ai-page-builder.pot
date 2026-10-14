@@ -1,0 +1,333 @@
+# Copyright (C) 2024 AI Page Builder
+# This file is distributed under the MIT License.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Page Builder 1.0.0\n"
+"Report-Msgid-Bugs-To: https://github.com/AIPageBuilder/issues\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: AI Page Builder\n"
+"X-Domain: promptpress-ai\n"
+
+#: admin/class-admin.php
+msgid "AI Page Builder"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Generate with AI"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Describe the page or post you want to create..."
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Content Type"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Page"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Post"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Editor"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Gutenberg"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Classic Editor"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Language"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "English"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Tone"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Professional"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Casual"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Formal"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Design Style"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Modern"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Classic"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Minimalist"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Generate"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Creating Draft..."
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Publish"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Preview"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Save as Draft"
+msgstr ""
+
+#: admin/class-admin.php
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php
+msgid "AI Page Builder Settings"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "API Key"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Enter your OpenAI API key"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Default Content Type"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Default Editor"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Default Language"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Default Tone"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Default Design Style"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Settings saved successfully."
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Select a Template"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Or describe your own..."
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Business"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Ecommerce"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Services"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Content"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Generating..."
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Error generating content. Please try again."
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Content generated successfully!"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Regenerate"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Edit Content"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "View Draft"
+msgstr ""
+
+#: integrations/rank-math/class-rank-math-integration.php
+msgid "Rank Math SEO data saved."
+msgstr ""
+
+#: integrations/yoast/class-yoast-integration.php
+msgid "Yoast SEO data saved."
+msgstr ""
+
+#: integrations/aioseo/class-aioseo-integration.php
+msgid "All in One SEO data saved."
+msgstr ""
+
+#: includes/class-ai-generator.php
+msgid "Generating content with AI..."
+msgstr ""
+
+#: includes/class-ai-generator.php
+msgid "AI generation complete."
+msgstr ""
+
+#: includes/class-ai-generator.php
+msgid "Failed to generate content. Please check your API key and try again."
+msgstr ""
+
+#: includes/class-ai-generator.php
+msgid "Invalid prompt provided."
+msgstr ""
+
+#: includes/class-ai-generator.php
+msgid "Content was too short. Please provide a more detailed description."
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Max Tokens"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Temperature"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Additional Instructions"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Include Images"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "SEO Optimized"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Generation History"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "No generations yet."
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Duplicate"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Loading templates..."
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "No templates found."
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Use Template"
+msgstr ""
+
+#: includes/class-ai-generator.php
+msgid "AI content generation is not configured. Please set your API key in settings."
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "API Settings"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Default Generation Settings"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Integration Settings"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Enable Rank Math Integration"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Enable Yoast SEO Integration"
+msgstr ""
+
+#: admin/partials/settings.php
+msgid "Enable All in One SEO Integration"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Regenerate Content"
+msgstr ""
+
+#: admin/partials/page-generator.php
+msgid "Content regenerated successfully!"
+msgstr ""
+
+#: admin/class-admin.php
+msgid "Documentation"
+msgstr ""
+
+#: admin/class-admin.php
+msgid "Support"
+msgstr ""
+
+#: admin/class-admin.php
+msgid "Changelog"
+msgstr ""

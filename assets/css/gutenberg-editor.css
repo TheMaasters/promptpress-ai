@@ -1,0 +1,75 @@
+/**
+ * PromptPress AI - Gutenberg Editor Styles
+ *
+ * @package AIPB
+ */
+
+.aipb-gutenberg-panel {
+  max-width: 100%;
+}
+
+.aipb-gutenberg-panel .components-panel__body {
+  border-top: 1px solid #e0e0e0;
+}
+
+.aipb-gutenberg-panel .aipb-panel-actions {
+  margin-top: 16px;
+}
+
+.aipb-gutenberg-panel .components-textarea-control__input {
+  width: 100%;
+  min-height: 80px;
+}
+
+.aipb-gutenberg-panel .components-select-control__input {
+  width: 100%;
+}
+
+.aipb-gutenberg-panel .aipb-notice {
+  margin-bottom: 12px;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.aipb-gutenberg-panel .aipb-notice--error {
+  background: #fcf0f1;
+  border-left: 4px solid #dc3232;
+  color: #8b0000;
+}
+
+.aipb-gutenberg-panel .aipb-notice--success {
+  background: #f0faf0;
+  border-left: 4px solid #46b450;
+  color: #1e7e34;
+}
+
+/* Toolbar popover */
+.aipb-toolbar-popover {
+  z-index: 100000;
+}
+
+.aipb-toolbar-menu {
+  min-width: 220px;
+  padding: 8px 0;
+}
+
+.aipb-toolbar-menu-title {
+  padding: 4px 16px 8px;
+  font-weight: 600;
+  font-size: 13px;
+  color: #1e1e1e;
+  border-bottom: 1px solid #e0e0e0;
+  margin-bottom: 4px;
+}
+
+.aipb-toolbar-menu .components-menu-item__button {
+  width: 100%;
+  text-align: left;
+  padding: 6px 16px;
+  font-size: 13px;
+}
+
+.aipb-toolbar-menu .components-menu-item__button:hover {
+  background: #f0f0f0;
+}
